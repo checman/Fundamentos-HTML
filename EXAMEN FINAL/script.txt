@@ -1,0 +1,18 @@
+Hola 
+Mi nombre es Sergio y en este video te voy a contar acerca de mi y mis habilidades profesionales
+
+<<intro>>
+
+Actualmente me encuentro estudiando la licenciatura en Actuaría. 
+Mi carrera está conformada por 8 semestres y me encuentro cursando 7mo.
+
+Para los que no saben qué es lo que hace un actuario, es aquél que cuantifica todo tipo de riesgos y los evalua por medio de herramientas matemáticas
+probabilísticas y estadísticas para prevenir a cualquier empresa de los peligros a los que se enfrenta.
+
+<<Entonces... ¿Qué domina un actuario?>>
+
+Un actuario es un matemático que domina temas como Probabilidad, Estadística, Economía, Finanzas, Programación, entre otros. 
+Todo esto es necesario para poder hacer modelos matemáticos que puedan predecir cosas como precios de acciones, posibles siniestros, fondos para las empresas,
+futuras erupciones volcánicas, entre otros.
+
+

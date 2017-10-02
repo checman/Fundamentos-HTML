@@ -1,0 +1,10 @@
+INSTRUCCIONES PARA LA ENTREGA (fundamentos de HTML, NextU)
+Una vez hayas completado el proyecto, comprime la carpeta con los archivos y súbela al curso. Sigue los siguientes pasos para completar esta sección correctamente:
+
+En la carpeta comprimida agrega tu proyecto con todos los recursos necesarios para su funcionamiento y un archivo github_url.txt que contenga el URL de tu proyecto versionado en el repositorio. Recuerda que haciendo uso de Git Hub podrás ir creando tu portafolio de aplicaciones web.
+Utiliza el siguiente nombre para el zip de la entrga: NombreDelCurso_PrimerNombre_PrimerApellido.zip. Es muy importante que la carpeta lleve tu primer nombre y apellido para poder identificarlo correctamente.
+Para subir el ZIP al curso, sigue los siguientes pasos:
+Accede a la página Evaluación Final.
+Haz clic en Añadir envío (hasta el final de la página).
+Agrega una descripción en la sección Texto en línea y Adjunta la Carpeta Comprimida en la sección Envíos de archivo.
+Haz clic en Guardar Cambios.
